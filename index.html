@@ -16,6 +16,13 @@
     <link rel="apple-touch-icon" href="/logo192.png" />
     <link rel="manifest" href="/manifest.json" />
     <title>Siddaiah M</title>
+    <script>
+      !(function () {
+        var e = sessionStorage.redirect;
+        delete sessionStorage.redirect,
+          e && e != location.href && history.replaceState(null, null, e);
+      })();
+    </script>
     <link href="/static/css/main.844ac167.chunk.css" rel="stylesheet" />
   </head>
   <body>
@@ -67,13 +74,6 @@
             	gl_FragColor = color;
 
             }
-    </script>
-    <script>
-      !(function () {
-        var e = sessionStorage.redirect;
-        delete sessionStorage.redirect,
-          e && e != location.href && history.replaceState(null, null, e);
-      })();
     </script>
     <script>
       !(function (e) {
