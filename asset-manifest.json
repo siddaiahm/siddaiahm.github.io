@@ -1,23 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8a077b6.chunk.css",
-    "main.js": "/static/js/main.36096b31.chunk.js",
-    "main.js.map": "/static/js/main.36096b31.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d7c2816a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d7c2816a.js.map",
-    "static/js/2.4da559f0.chunk.js": "/static/js/2.4da559f0.chunk.js",
-    "static/js/2.4da559f0.chunk.js.map": "/static/js/2.4da559f0.chunk.js.map",
-    "static/js/3.abb098e2.chunk.js": "/static/js/3.abb098e2.chunk.js",
-    "static/js/3.abb098e2.chunk.js.map": "/static/js/3.abb098e2.chunk.js.map",
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.8e971f2f.js",
+    "static/js/787.32af1514.chunk.js": "/static/js/787.32af1514.chunk.js",
     "index.html": "/index.html",
-    "static/css/main.d8a077b6.chunk.css.map": "/static/css/main.d8a077b6.chunk.css.map",
-    "static/js/2.4da559f0.chunk.js.LICENSE.txt": "/static/js/2.4da559f0.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Raleway-Medium.67dbd97b.ttf"
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.8e971f2f.js.map": "/static/js/main.8e971f2f.js.map",
+    "787.32af1514.chunk.js.map": "/static/js/787.32af1514.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7c2816a.js",
-    "static/js/2.4da559f0.chunk.js",
-    "static/css/main.d8a077b6.chunk.css",
-    "static/js/main.36096b31.chunk.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8e971f2f.js"
   ]
 }
